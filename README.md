@@ -26,7 +26,7 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height=55>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" height=55>
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-512.png" height=55>
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height=55>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height=55>
 <img src="https://logosandtypes.com/wp-content/uploads/2020/11/npm.svg" height=55>
