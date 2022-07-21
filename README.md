@@ -1,5 +1,5 @@
 # Hiya, my name is Reuban 👋
-## ℹ️ About me: 
+## ℹ️ About me : 
 `I'm a software engeneer who is currently learning at Epitech graduating in 2027 🙂`
 ---
 ## Contact me :
@@ -14,7 +14,10 @@
 	<img src="https://cdn-icons-png.flaticon.com/512/282/282100.png" height=55>
 </a>
 
-## Programming languages:
+Also find me on discord :
+<img src="https://discord.c99.nl/widget/theme-3/554747424757907483.png">
+
+## Programming languages :
 <p>
 <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height=55>
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" height=55>
